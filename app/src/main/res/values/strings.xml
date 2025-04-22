@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">SensorReader</string>
+    <string-array name="sensorsTypes">
+        <item>pressure</item>
+        <item>light</item>
+        <item>humidity</item>
+        <item>temperature</item>
+    </string-array>
 </resources>
